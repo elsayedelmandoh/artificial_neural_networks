@@ -1,4 +1,4 @@
-# Artificial Neural Networks Repository
+## Artificial Neural Networks Repository
 
 Welcome to the 'Artificial Neural Networks' repository! This repository is your comprehensive guide to building Artificial Neural Networks (ANN) using various frameworks in Python. Explore building ANNs from scratch using NumPy, implementing ANNs with TensorFlow, and creating ANNs with PyTorch.
 
@@ -9,6 +9,10 @@ Welcome to the 'Artificial Neural Networks' repository! This repository is your 
 - Build ANN using PyTorch: Discover how to create Artificial Neural Networks using PyTorch, an open-source deep learning framework developed by Facebook's AI Research lab. Experience PyTorch's dynamic computational graph and flexible design for building complex neural network architectures.
 
 Whether you're new to neural networks or seeking to master different frameworks for deep learning, this repository provides valuable content, examples, and resources to support your journey.
+
+## Projects
+
+["Market Segmentation Neural Networks"](https://github.com/elsayedelmandoh/market_segmentation_neural_networks)
 
 ## Contributing
 
