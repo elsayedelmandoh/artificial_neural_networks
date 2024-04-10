@@ -12,7 +12,7 @@ Whether you're new to neural networks or seeking to master different frameworks 
 
 ## Projects
 
-["Market Segmentation Neural Networks"](https://github.com/elsayedelmandoh/market_segmentation_neural_networks)
+[Market Segmentation Neural Networks](https://github.com/elsayedelmandoh/market_segmentation_neural_networks)
 
 ## Contributing
 
